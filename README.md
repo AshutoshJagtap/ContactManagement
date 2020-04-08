@@ -1,6 +1,6 @@
 # Contact Management System
 
- ### Designed and implemented ready application for maintaining contact information
+### Designed and implemented ready application for maintaining contact information.
 ---
 ## Technologies / Tools Used 
  - WebAPI 2
